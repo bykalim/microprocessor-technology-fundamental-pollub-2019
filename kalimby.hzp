@@ -17,6 +17,7 @@
     <folder Name="Source Files">
       <configuration Name="Common" filter="c;cpp;cxx;cc;h;s;asm;inc"/>
       <file file_name="kalim_lab1.c"/>
+      <file file_name="kalim_lab2.c"/>
     </folder>
   </project>
   <configuration Name="ARM RAM Release" inherited_configurations="ARM;RAM;Release"/>
