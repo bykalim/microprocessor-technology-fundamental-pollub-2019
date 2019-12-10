@@ -20,6 +20,7 @@
       <file file_name="kalim_lab2.c"/>
       <file file_name="kalim_lab3.c"/>
       <file file_name="practice_lab3.c"/>
+      <file file_name="kalim_lab3.1.c"/>
     </folder>
   </project>
   <configuration Name="ARM RAM Release" inherited_configurations="ARM;RAM;Release"/>
