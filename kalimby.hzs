@@ -3,19 +3,35 @@
  <Bookmarks/>
  <Breakpoints/>
  <ExecutionProfileWindow/>
- <Memory1/>
- <Memory2/>
- <Memory3/>
- <Memory4/>
+ <Memory1>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" name="kalimby" addressSpace="" />
+ </Memory1>
+ <Memory2>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" name="kalimby" addressSpace="" />
+ </Memory2>
+ <Memory3>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" name="kalimby" addressSpace="" />
+ </Memory3>
+ <Memory4>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" name="kalimby" addressSpace="" />
+ </Memory4>
  <Project>
   <ProjectSessionItem path="kalimby" name="unnamed" />
   <ProjectSessionItem path="kalimby;kalimby" name="unnamed" />
   <ProjectSessionItem path="kalimby;kalimby;Source Files" name="unnamed" />
  </Project>
- <Register1/>
- <Register2/>
- <Register3/>
- <Register4/>
+ <Register1>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="CPU - Current Context;CPU" decimalNodes="" octalNodes="" asciiNodes="" name="kalimby" />
+ </Register1>
+ <Register2>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="CPU - Current Context;CPU" decimalNodes="" octalNodes="" asciiNodes="" name="kalimby" />
+ </Register2>
+ <Register3>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="CPU - Current Context;CPU" decimalNodes="" octalNodes="" asciiNodes="" name="kalimby" />
+ </Register3>
+ <Register4>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="CPU - Current Context;CPU" decimalNodes="" octalNodes="" asciiNodes="" name="kalimby" />
+ </Register4>
  <TargetWindow programAction="" uploadFileType="" programLoadAddress="" programSize="" uploadFileName="" uploadMemoryInterface="" programFileName="" uploadStartAddress="" programFileType="" uploadSize="" programMemoryInterface="" />
  <TraceWindow>
   <Trace enabled="Yes" />
@@ -33,8 +49,12 @@
   <Watches active="0" update="Never" />
  </Watch4>
  <Files>
-  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\Users\student\Documents\kalimby\kalim_lab1.c" y="19" path="C:\Users\student\Documents\kalimby\kalim_lab1.c" left="0" selected="0" name="unnamed" top="11" />
-  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="28" debugPath="C:\Users\student\Documents\kalimby\kalim_lab2.c" y="27" path="C:\Users\student\Documents\kalimby\kalim_lab2.c" left="0" selected="1" name="unnamed" top="13" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\Users\student\Documents\kalimby\kalim_lab2.c" y="32" path="C:\Users\student\Documents\kalimby\kalim_lab2.c" left="0" selected="0" name="unnamed" top="5" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\Users\student\Documents\kalimby\kalim_lab3.c" y="28" path="C:\Users\student\Documents\kalimby\kalim_lab3.c" left="0" selected="1" name="unnamed" top="12" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\Users\student\Documents\kalimby\kalim_lab1.c" y="38" path="C:\Users\student\Documents\kalimby\kalim_lab1.c" left="0" selected="0" name="unnamed" top="24" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\Users\student\Documents\kalimby\practice_lab3.c" y="25" path="C:\Users\student\Documents\kalimby\practice_lab3.c" left="0" selected="0" name="unnamed" top="7" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="23" debugPath="C:\Users\student\Documents\kalimby\kalim_lab3.1.c" y="29" path="C:\Users\student\Documents\kalimby\kalim_lab3.1.c" left="0" selected="0" name="unnamed" top="6" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\Users\student\Documents\kalimby\exam.c" y="0" path="C:\Users\student\Documents\kalimby\exam.c" left="0" selected="0" name="unnamed" top="0" />
  </Files>
  <ARMCrossStudioWindow activeProject="kalimby" autoConnectTarget="SEGGER J-Link" debugSearchFileMap="" fileDialogInitialDirectory="" fileDialogDefaultFilter="*.c" autoConnectCapabilities="1151" debugSearchPath="" buildConfiguration="ARM RAM Release" />
 </session>
