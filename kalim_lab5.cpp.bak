@@ -37,7 +37,9 @@ int main(){
 
   TC0_CMR = CPCTRG;
   TC0_CMR |= TIMER_CLOCK4;
+  
   TC0_RC = 37500;
+
   TC0_CCR = CLKEN;
   TC0_CCR |= SWTRG;
 
