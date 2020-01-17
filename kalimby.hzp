@@ -25,6 +25,7 @@
       <file file_name="kalim_lab5.cpp"/>
       <file file_name="kalim_lcd1.cpp"/>
       <file file_name="pcf8833u8_lcd.c"/>
+      <file file_name="kalim_lab6.cpp"/>
     </folder>
   </project>
   <configuration Name="ARM RAM Release" inherited_configurations="ARM;RAM;Release"/>
